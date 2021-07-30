@@ -1,5 +1,5 @@
 # fetch-rewards-coding-exercise
-Fetch Rewards Coding Exercise
+Fetch Rewards Coding Exercise - Backend Software Engineering
 
 To run the service locally:
 1.  ```git clone https://github.com/legendaryC/fetch-rewards-coding-exercise.git```
